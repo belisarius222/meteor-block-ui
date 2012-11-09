@@ -1,0 +1,8 @@
+{
+  "name": "jquery-block-ui",
+  "description": "Block, a jquery plugin for blocking the UI with a loading screen, repackaged for meteor",
+  "homepage": "https://github.com/belisarius222/meteor-block-ui",
+  "author": "Ted Blackman <ted.blackman@gmail.com>",
+  "version": "0.0.1",
+  "git": "https://github.com/belisarius222/meteor-block-ui.git"
+}
